@@ -1,0 +1,11 @@
+# exclue depnedacnies for both subfolder
+s3-ecom/node_modules
+s3-storage-backend/node_modules
+
+
+
+#Exclude build files and envirnment variables 
+
+s3-ecom/.next/
+s3/ecom/out/
+.env
